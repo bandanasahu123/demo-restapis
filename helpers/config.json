@@ -1,0 +1,8 @@
+{
+  "MAX_AGE": "10",
+  "CRYPTO_BYTE_SIZE": 128,
+  "ALGO_IN_USE": "sha256",
+  "APP_NAME": "Focal Apps",
+  "EMAIL_SOURCE": "demo@klayschools.com",
+  "RESET_PAGE": "http://localhost:3000/reset-password"
+}
